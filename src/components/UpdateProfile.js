@@ -96,8 +96,7 @@ export default function UpdateProfile() {
               Update Profile 
             </button>
           </form>
-          
-          
+
         </div>
        
         </div>
